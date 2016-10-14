@@ -1,0 +1,12 @@
+LOCUS       TDH3ps                    42 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      BY4742_gDNA
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+ORIGIN
+        1 cggaagcaaa atccaataga atagaaaacc acataaggca ag
+//

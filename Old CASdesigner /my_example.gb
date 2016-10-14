@@ -1,0 +1,13 @@
+LOCUS       GeneX                     53 bp    DNA              UNK 01-JAN-1980
+DEFINITION  .
+ACCESSION   <unknown id>
+VERSION     <unknown id>
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     homology        gDNA:1..30
+ORIGIN
+        1 atcgtttgct gctgaaccta gctgcaatac acaccagctc taactctctg atg
+//
